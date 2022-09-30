@@ -5,6 +5,7 @@ Degenerate search acedemy.
 bir sodead purified hale gelebiliyor. purified olanların fiyarı normallerden 2-3 kat daha fazla fiyata satılıyor ve yakında coffin adında yani tabut airdrop
 u yapılacak purified olanlara tabut gelme ihtimali çok daha yüksek.
 2-) twitter linki ve web sitesi linki nedir?
+
 https://twitter.com/SoDeadNFT
 
 https://sodead.io/
