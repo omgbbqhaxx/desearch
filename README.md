@@ -1,19 +1,29 @@
 # desearch
+
 Degenerate search acedemy.
 
--1-) Proje ne iş yapıyor?
+## Contact
+
+[![Twitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://twitter.com/yasinaktimur/)
+[![GitHub Issues](https://img.shields.io/badge/open%20issues-0-yellow.svg)](https://github.com/omgbbqhaxx/desearch/issues)
+
+- Chat in [twitter channel](https://twitter.com/yasinaktimur).
+- Report bugs, issues or feature requests using [GitHub issues](issues/new).
 
 
--2-) twitter linki ve web sitesi linki nedir?
+1-) Proje ne iş yapıyor?
 
 
--3-) Twitter takipçileri gerçek mi? Postalarına gelen beğeni ve yorumlar ne durumda?
+2-) twitter linki ve web sitesi linki nedir?
 
 
--4-) Twitter'da hangi fenomenler shilliyor?
+3-) Twitter takipçileri gerçek mi? Postalarına gelen beğeni ve yorumlar ne durumda?
 
 
--5-) Stake özelliği var mı? eğer varsa hangi tokeni veriyor ve bu tokenin değeri nedir ve nerelerde satılıyor?
+4-) Twitter'da hangi fenomenler shilliyor?
 
 
--6-) Alım için önerdiğin seviyeler neler?
+5-) Stake özelliği var mı? eğer varsa hangi tokeni veriyor ve bu tokenin değeri nedir ve nerelerde satılıyor?
+
+
+6-) Alım için önerdiğin seviyeler neler?
