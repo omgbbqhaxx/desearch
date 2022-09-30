@@ -1,0 +1,2 @@
+# desearch
+Degenerate search acedemy.
