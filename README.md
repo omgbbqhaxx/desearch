@@ -30,6 +30,7 @@ Degenerate search acedemy.
 
 6-) Alım için önerdiğin seviyeler neler?
 
+- Örnek hazırlanmış doysayı görmek için [SoDeadNFT](https://github.com/omgbbqhaxx/desearch/blob/main/projects/sodead.md).
 
 
 ## Diğer
@@ -38,4 +39,4 @@ Degenerate search acedemy.
 [![GitHub Issues](https://img.shields.io/badge/open%20issues-0-yellow.svg)](https://github.com/omgbbqhaxx/desearch/issues)
 
 - İletişim [Twitter link](https://twitter.com/yasinaktimur).
-- Github pull requests [GitHub Pull Request](/pulls).
+- Github pull requests [GitHub Pull Request](https://github.com/omgbbqhaxx/desearch/pulls).
