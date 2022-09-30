@@ -7,8 +7,8 @@ Degenerate search acedemy.
 [![Twitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://twitter.com/yasinaktimur/)
 [![GitHub Issues](https://img.shields.io/badge/open%20issues-0-yellow.svg)](https://github.com/omgbbqhaxx/desearch/issues)
 
-- Chat in [twitter channel](https://twitter.com/yasinaktimur).
-- Report bugs, issues or feature requests using [GitHub issues](issues/new).
+- İletişim [Twitter link](https://twitter.com/yasinaktimur).
+- Github pull requests [GitHub Pull Request](/pulls).
 
 
 1-) Proje ne iş yapıyor?
