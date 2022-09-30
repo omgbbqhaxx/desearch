@@ -1,5 +1,4 @@
-# desearch
-Degenerate search acedemy.
+# SoDeadNFT
 1-) Proje ne iş yapıyor?
 - Sodead degods'a benzeyen sanat tasarımı olan bir projedir. Aynı projeye ait sodead blood adında 2. bir kolleksiyon daha bulunuyor ve 4 tane blood ile
 bir sodead purified hale gelebiliyor. purified olanların fiyarı normallerden 2-3 kat daha fazla fiyata satılıyor ve yakında coffin adında yani tabut airdrop
