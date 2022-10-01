@@ -31,3 +31,6 @@ daha da yükselebilir ama 100 tanesi 1 dolardan aşağıya düşemez.
 
 
 Normalde 3 ile 8 arası idi fakat şu an fiyatı 40 solanaya kadar yükseldi.
+
+
+## 7-) Araştırmayı yapan kişinin projenin başarılı olması halinde bağış alacağı solana adresi.
