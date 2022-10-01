@@ -1,3 +1,5 @@
+#GhostkidDao
+
 ## 1-) Proje ne iş yapıyor?
 
 GhostkidDao degen mint metasını başlatan projedir.
