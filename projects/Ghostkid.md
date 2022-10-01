@@ -1,4 +1,5 @@
-1-) Proje ne iş yapıyor?
+#1-) Proje ne iş yapıyor?
+
 GhostkidDao degen mint metasını başlatan projedir.
 Proje Boonties adını verdikleri platform üzerine kuruluyor.
 Bu platform üzerinde Raid2earn, stake, raffle, shop ,boonties(ödüllü görevler) ve topluluk leaderboard'ları bulunmaktadır.
@@ -41,17 +42,17 @@ Proje şu an ROADMAP 3.0 aşamasında ve geçmişteki ROADMAP 2.0 açıklamasın
 
 - Web siteleri : [GhostyGkd](https://twitter.com/GhostyGkd).
 
-2-) Twitter takipçileri gerçek mi? Postalarına gelen beğeni ve yorumlar ne durumda?
+#2-) Twitter takipçileri gerçek mi? Postalarına gelen beğeni ve yorumlar ne durumda?
  twitter takipçileri ve begenileri %100 organik ve beğeniler iyi durumda.
 
-3-)Twitter'da hangi fenomenler shilliyor?
+#3-)Twitter'da hangi fenomenler shilliyor?
  Topluluk olarak baskın ve shilleme konusunda bütün ağlarda zirvede olabilirler.
 
-4-) Stake özelliği var mı? eğer varsa hangi tokeni veriyor ve bu tokenin değeri nedir ve nerelerde satılıyor?
+#4-) Stake özelliği var mı? eğer varsa hangi tokeni veriyor ve bu tokenin değeri nedir ve nerelerde satılıyor?
   Stake özelliği var $BOO token veriyor. Upgrade olmayan ghostlar günde 15 BOO üretirken, 1050 BOO+ GKD Potion ile upgrade olan Ghostkidler günde 30 boo üretiyor.
 
   BOO şu an FFF ve Radium platformlarında satılıyor. Şu an 0.0009-0.001 arası degişiyor. Bu miktarlar ele alınınca bir ghost ayda yaklaşık 0.9 sol üretiyor.
 
-5 -) Alım için önerdiğin seviyeler neler?
+#5 -) Alım için önerdiğin seviyeler neler?
 upgrade olanlar için 10 ve altında alınabilir
 upgrade olmayanlar için 8 ve altında alınabilir.
