@@ -8,6 +8,7 @@ Bu oyunun öncesinde 3 farklı oyun yapmış. Bu 3 oyundan bir tanesi de polygon
 ## 2)	Twitter linki ve web sitesi linki nedir?
 
  •	https://twitter.com/InfiniteDrive_
+ 
  •	https://infinitedrive.net/
 ## 3)	Twitter takipçileri gerçek mi? Postlarına gelen beğeni ve yorumlar ne durumda?
 Piyasada az diyebileceğimiz 2750 adet takipçileri var. Ama incelediğim kadarıyla hepsi gerçek takipçi. Sabitlenen tweet haricinde 5-20 arası beğeni almış.
