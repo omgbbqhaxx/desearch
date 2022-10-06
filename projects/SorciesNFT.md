@@ -6,14 +6,14 @@ adında bir token kazanabileceksiniz ve lvl atlatma sistemi mevcut.
 
 - Travelers, Apprentices, Elders ve Masters adında ırklar var ve.
 
-Travelers günlük 10 $SOR kazanıyor.
-Traveler'lar 300 $SOR kullanarak Apprentice olabiliyor. (30 gün train olduktan sonra)
+-Traveler'lar günlük 10 $SOR kazanıyor.
+Traveler'lar 300 $SOR kullanarak Apprentice olabiliyor. (30 gün stake'de kaldıktan sonra)
 
-- Apprentices'lar günlük 12.5 $SOR kazanıyorlar.
-Apprentices'ler 375 $SOR to ile to an Elder olabiliyor. (30 gün train olduktan sonra)
+- Apprentice'lar günlük 12.5 $SOR kazanıyorlar.
+Apprentices'ler 375 $SOR ile  Elder olabiliyor. (30 gün stake'de kaldıktan sonra)
 
-- Elders'ler günlük 15 $SOR kazanıyor.
-Elders can use 900 $SOR to upgrade to a Master. (60 gün train olduktan sonra)
+- Elder'ler günlük 15 $SOR kazanıyor.
+Elders can use 900 $SOR ile Master olabiliyor. (60 gün train olduktan sonra)
 
 - Master'lar günlük 20 $SOR kazanıyor.
 
