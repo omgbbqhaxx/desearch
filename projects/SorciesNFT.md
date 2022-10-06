@@ -47,6 +47,6 @@ soruları cevaplayarak WL isteğinde bulunabilirsiniz.
 
 - [Kurucu Twitter](https://twitter.com/voided).
 
-- [Kurucu Twitter](https://discord.com/invite/sorcies).
+- [discord](https://discord.com/invite/sorcies).
 
 # <img src="https://github.com/omgbbqhaxx/desearch/blob/main/images/FbRU4P1XoAEX6Aj.jpeg">
