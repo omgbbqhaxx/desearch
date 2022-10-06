@@ -72,9 +72,9 @@ Tüm twitterda popüler durumda.
 
 ## 5-) Stake özelliği var mı? eğer varsa hangi tokeni veriyor ve bu tokenin değeri nedir ve nerelerde satılıyor?
 
-Yakında $HEM isminde yeni bir tokenlarını duyuracaklar. Bu token aynı zamanda dünyadaki ilk semi-stable token
-yani yarı-stabil denebilir stabilliği şuradan geliyor 100 $HEM en az 1 dolar olacak mutlaka ama hem fiyatı
-daha da yükselebilir ama 100 tanesi 1 dolardan aşağıya düşemez.
+Stake özelliği şimdilik açıklanmadı sadece siteden işlem yapanlar hacimleri karşılığında $FISHY kazanıyor.
+fakat ileride sharx sahipleri çarpan kazanabilir yani 100 puan yerine fishy sahipleri aynı işten 1000 puan kazanabilir.
+yada direkt $FISHY kazanadabilirler proje yeni olduğundan bunlar daha duyurulmadı.
 
 ## 6-) Alım için önerdiğin seviyeler neler?
 
