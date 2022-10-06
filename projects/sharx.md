@@ -26,7 +26,7 @@ eğer siz 20 sol borç veren kişiyseniz .30 solana sizin cüzdanınıza yatmı�
 Kötü ihtimal 20 solanalık bir nft'ye 10 sol borç vermenize rağmen nft değerinin 7 gün içinde 10 solanadan da az fiyata düşmüş olma ihtimali.
 borç verenlerin aldığı risk bu oluyor.
 
-# <img src="https://github.com/omgbbqhaxx/desearch/blob/main/images/FeWpZfJWIAAuy6j.jpeg">
+# <img src="https://github.com/omgbbqhaxx/desearch/blob/main/images/FeWpZfJWIAAuy6j.png">
 - Borç verdiğinizde veya aldığınızda POINT yani puanlar kazanıyorsunuz ve 10 POINT = 1 $FISHY adında token kazandırıyor.
 
 
